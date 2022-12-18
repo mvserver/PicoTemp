@@ -33,5 +33,4 @@ For an outside use I had a tasparent plastic box, where I put all the compenets 
 # Credits
 - [Rasperry Pi Fundation](https://www.raspberrypi.com);
 - Thonny IDE;
-- [@ikornaselur](https://github.com/ikornaselur/)'s DHT11 MicroPython library;
-- I don't remember from who is the part of code to connect to wifi, **if you are the creator conctat me for credit**.
+- [@ikornaselur](https://github.com/ikornaselur/)'s DHT11 MicroPython library.
